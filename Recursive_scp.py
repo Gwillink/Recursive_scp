@@ -17,6 +17,5 @@ for found_file in found_files:
      print found_file
      scp.put(found_file, remote_path='/home/xxx')
     
-#scp.put('/Users/geeshan/Documents/linux.txt', remote_path='/home/dm')
-#scp.put('test.txt', 'test2.txt')
+#scp.put('/Users/xxxx/Documents/linux.txt', remote_path='/home/xxx')
 #scp.get('test2.txt')
