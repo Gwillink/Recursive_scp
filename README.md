@@ -1,5 +1,6 @@
+Python tools 
+--- 
 
-Select files recursively using 'find' command line package for python
+read_jsonfiles_recursively.py : read json objects line by line from selection of files 
 
-copy all files to remote host
-
+Recursive_scp.py : copy files from local to remote from selection of files
